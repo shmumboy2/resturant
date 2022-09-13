@@ -9,7 +9,7 @@ h1 {
 }/*top border and outline and font*/
 body{
     background-image: url('background.jpg');
-    
+    background-size:100%;
 }/*background image*/
 h2 {
     text-align: center;
